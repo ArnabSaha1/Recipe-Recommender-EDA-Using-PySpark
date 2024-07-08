@@ -14,16 +14,16 @@ The data consists of two files. The first file is the Raw_recipes.csv file. It c
 
 ## Steps:
 In this assignment we have utilised PySpark and Google Colab for performing the big data analysis. You can also use AWS EMR, one master node with m4.xlarge and one cluster node with m4.large configuration will give you sufficient processing power to work with this data. Following are steps that followed:
-Part 1: Recipe Based Feature Extraction & EDA
- •Task 01: Reading the first data file.
- •Task 02: Extract individual features from the nutrition column.
- •Task 03: Standardize the nutrition values.
- •Task 04: Convert the tags column from a string to an array of strings.
- •Task 05: Read the second data file.
- •Task 06: Create time-based features.
- •Task 07: Processing Numerical Columns and Visualising.
- Part 2: User Based Feature Extraction & EDA
- •Task 08: Create user-level features.
- •Task 09: Create tag-level features and perform EDA.
+- Part 1: Recipe Based Feature Extraction & EDA
+    - Task 01: Reading the first data file.
+    - Task 02: Extract individual features from the nutrition column.
+    - Task 03: Standardize the nutrition values.
+    - Task 04: Convert the tags column from a string to an array of strings.
+    - Task 05: Read the second data file.
+    - Task 06: Create time-based features.
+    - Task 07: Processing Numerical Columns and Visualising.
+- Part 2: User Based Feature Extraction & EDA
+    - Task 08: Create user-level features.
+    - Task 09: Create tag-level features and perform EDA.
  ## Summary:
 After performing the feature extraction and exploratory data analysis on the raw data, we comes up with several features that can be used to build the recipe recommendation engine for the food recipe website Food.com.– And using this recommendation engine will not only help in increasing the website's user engagement, more business opportunities like collaborations, promotions, etc. but will also help significantly impact the revenue growth of the company.
